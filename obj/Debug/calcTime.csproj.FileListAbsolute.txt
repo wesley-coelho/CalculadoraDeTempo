@@ -1,0 +1,9 @@
+C:\Users\Wesley\source\repos\calcTime\bin\Debug\calcTime.exe.config
+C:\Users\Wesley\source\repos\calcTime\bin\Debug\calcTime.exe
+C:\Users\Wesley\source\repos\calcTime\bin\Debug\calcTime.pdb
+C:\Users\Wesley\source\repos\calcTime\obj\Debug\calcTime.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\calcTime\obj\Debug\calcTime.FrmCalcTime.resources
+C:\Users\Wesley\source\repos\calcTime\obj\Debug\calcTime.Properties.Resources.resources
+C:\Users\Wesley\source\repos\calcTime\obj\Debug\calcTime.csproj.GenerateResource.cache
+C:\Users\Wesley\source\repos\calcTime\obj\Debug\calcTime.exe
+C:\Users\Wesley\source\repos\calcTime\obj\Debug\calcTime.pdb
