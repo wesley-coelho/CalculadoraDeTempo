@@ -445,9 +445,11 @@ namespace calcTime
             if (e.KeyData == Keys.Add)
                 btnSoma.PerformClick();
             if (e.KeyData == Keys.Subtract)
-                btnSoma.PerformClick();
+                btnSub.PerformClick();
             if (e.KeyData == Keys.Back)
                 button1.PerformClick();
+            if (e.KeyData == Keys.Delete)
+                button2.PerformClick();
         }
 
         private void FrmCalcTime_Load(object sender, EventArgs e)
