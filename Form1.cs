@@ -324,6 +324,7 @@ namespace calcTime
                 valorDisplay = "";
                 operacao = "igual";
                 tbDisplay.SelectionStart = tbDisplay.Text.Length;
+
             }
 
 
