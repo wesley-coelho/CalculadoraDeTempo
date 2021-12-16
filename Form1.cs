@@ -312,6 +312,7 @@ namespace calcTime
                 tbDisplay.Text = time.ToString();
                 valorDisplay = "";
                 operacao = "igual";
+                tbDisplay.SelectionStart = tbDisplay.Text.Length;
             }
             if (t1.ToString() != "00:00:00" && lblMemory.Text.Contains("-"))
             {
@@ -322,6 +323,7 @@ namespace calcTime
                 tbDisplay.Text = time.ToString();
                 valorDisplay = "";
                 operacao = "igual";
+                tbDisplay.SelectionStart = tbDisplay.Text.Length;
             }
 
 
